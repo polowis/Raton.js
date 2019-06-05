@@ -1,0 +1,28 @@
+{
+  "name": "raton.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polowis/Raton.js.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "polowis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polowis/Raton.js/issues"
+  },
+  "homepage": "https://github.com/polowis/Raton.js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
