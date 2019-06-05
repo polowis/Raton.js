@@ -6,6 +6,6 @@
 
 
 ```sh
-$ npm install node-fetch --save
+$ npm install raton.js --save
 ```
 
